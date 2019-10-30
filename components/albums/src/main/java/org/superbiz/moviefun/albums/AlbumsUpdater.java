@@ -6,8 +6,8 @@ import com.fasterxml.jackson.dataformat.csv.CsvSchema;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
-import org.superbiz.moviefun.albums.blobstore.Blob;
-import org.superbiz.moviefun.albums.blobstore.BlobStore;
+import org.superbiz.moviefun.blobstore.Blob;
+import org.superbiz.moviefun.blobstore.BlobStore;
 
 import java.io.IOException;
 import java.util.List;
