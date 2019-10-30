@@ -9,8 +9,8 @@ import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
-import org.superbiz.moviefun.blobstore.Blob;
-import org.superbiz.moviefun.blobstore.BlobStore;
+import org.superbiz.moviefun.albums.blobstore.Blob;
+import org.superbiz.moviefun.albums.blobstore.BlobStore;
 
 import java.io.IOException;
 import java.io.InputStream;
