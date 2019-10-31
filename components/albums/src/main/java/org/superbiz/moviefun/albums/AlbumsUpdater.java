@@ -1,4 +1,4 @@
-package org.superbiz.moviefun.blobstore.albums;
+package org.superbiz.moviefun.albums;
 
 import com.fasterxml.jackson.databind.ObjectReader;
 import com.fasterxml.jackson.dataformat.csv.CsvMapper;

@@ -1,4 +1,4 @@
-package org.superbiz.moviefun.blobstore.albums;
+package org.superbiz.moviefun.albums;
 
 import org.springframework.stereotype.Component;
 

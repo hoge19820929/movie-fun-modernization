@@ -2,9 +2,9 @@ package org.superbiz.moviefun;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.superbiz.moviefun.blobstore.albums.Album;
-import org.superbiz.moviefun.blobstore.albums.AlbumFixtures;
-import org.superbiz.moviefun.blobstore.albums.AlbumsBean;
+import org.superbiz.moviefun.albums.Album;
+import org.superbiz.moviefun.albums.AlbumFixtures;
+import org.superbiz.moviefun.albums.AlbumsBean;
 import org.superbiz.moviefun.moviesapi.MovieFixtures;
 import org.superbiz.moviefun.moviesapi.MovieInfo;
 import org.superbiz.moviefun.moviesapi.MoviesClient;
